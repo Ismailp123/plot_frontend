@@ -1,7 +1,7 @@
 # plot_frontend
 
 A new Flutter project.
-# video link:
+# Demo video link:
 
 https://youtu.be/q-tfgTbhbEg
 ## Getting Started
