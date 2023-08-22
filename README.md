@@ -1,7 +1,9 @@
 # plot_frontend
 
 A new Flutter project.
+# video link:
 
+https://youtu.be/q-tfgTbhbEg
 ## Getting Started
 
 This project is a starting point for a Flutter application.
